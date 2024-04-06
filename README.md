@@ -58,27 +58,7 @@
 
 <br>
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://icons8.com/icon/EXtI7GqJMPQH/naver-blog" />][blog]
-
-[blog]:https://blog.naver.com/desked
-
-<!--
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-[website]: https://velog.io/@imysh578
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[linkedin]: https://linkedin.com/in/
-[instagram]: https://instagram.com/_sokuri
-
--->>
-
-
-
+[<img width="100" height="100" src="https://img.icons8.com/bubbles/100/000000/naver-blog.png" alt="naver-blog"/>](https://blog.naver.com/desked)
 
 
 
