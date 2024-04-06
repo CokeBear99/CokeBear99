@@ -25,7 +25,7 @@
     <!-- 두 번째 이미지 -->
     <td>
       <a href="https://github.com/CokeBear99">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CokeBear99&layout=compact&theme=dark&hide_border=true" height="130">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CokeBear99&layout=compact&theme=dark&hide_border=true" height="150">
       </a>
     </td>
   </tr>
