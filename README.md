@@ -4,9 +4,9 @@
 
 
 ### 🌈 Welcome to CoekBear's GitHub 🌈
-  - abc 
-  - abcd
-  - abcde
+  - studying C++ / C# 
+  - For UE5 | Unity
+  - Hope to participate developing Archeage2
     
 
 
