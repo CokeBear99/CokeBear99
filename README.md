@@ -1,7 +1,7 @@
 <a href="https://github.com/CokeBear99/CokeBear99">![](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=CokeBear's%20GitHub&fontAlignY=42&reversal=true&fontColor=FFFFFF)<a>
 <br>
 ***
-<br>
+
 
 ### 🌈 Welcome to CoekBear's GitHub 🌈
   - abc 
