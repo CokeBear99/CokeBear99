@@ -4,10 +4,8 @@
 
 
 ### 🌈 Welcome to CoekBear's GitHub 🌈
-  - studying&nbsp; |&nbsp; C++ &nbsp;| &nbsp;C#&nbsp; |
-  - For&nbsp; |&nbsp; UE5 &nbsp;| &nbsp;Unity&nbsp; |
-  - Hope to participate developing Archeage2
-    
+  - Language : | &nbsp C++ &nbsp;| &nbsp;C#&nbsp; |
+  - TechnicStack : | &nbsp; UE5 &nbsp;| &nbsp;Unity&nbsp; |    
 
 
 ***
@@ -41,7 +39,6 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=black"/> </t>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white&color=grey"/>
-<img src="https://img.shields.io/badge/XAML-000000?style=for-the-badge&logo=X&logoColor=white&color=E2A9F3"/> 
 <br>
 <img src="https://img.shields.io/badge/Unreal Engine5-E2A9F3?style=for-the-badge&logo=Unreal Engine&logoColor=white&color=151e3d"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white&color=2b2c30"/>
